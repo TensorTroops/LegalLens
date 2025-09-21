@@ -1,0 +1,45 @@
+# Web Framework
+fastapi==0.108.0
+uvicorn[standard]==0.24.0
+
+# Google Cloud - Document AI
+google-cloud-documentai==2.27.0
+google-cloud-storage==2.10.0
+
+# Google Cloud - Spanner
+google-cloud-spanner==3.40.0
+
+# Google Cloud - Firestore
+google-cloud-firestore==2.13.1
+
+# Gemini AI
+google-generativeai==0.3.2
+
+# Authentication & Firebase (minimal)
+firebase-admin==6.4.0
+
+# Data Validation
+pydantic==2.8.0
+pydantic-settings==2.0.3
+
+# File Processing
+python-multipart==0.0.6
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Text Processing
+nltk==3.8.1
+
+# HTTP requests for health checks
+requests==2.31.0
+
+# Document Processing Dependencies
+PyMuPDF==1.23.14
+pytesseract==0.3.10
+Pillow==10.1.0
+numpy==1.24.4
+
+# Google OAuth (for Spanner service)
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
